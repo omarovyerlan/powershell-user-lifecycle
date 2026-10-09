@@ -1,0 +1,16 @@
+{
+  "Domain": "contoso.lab",
+  "UsersOU": "OU=Users,DC=contoso,DC=lab",
+  "DisabledOU": "OU=Disabled Users,DC=contoso,DC=lab",
+  "SeedDirectoryPath": "data/directory.seed.json",
+  "DirectoryPath": "output/directory.json",
+  "LogPath": "output/logs",
+  "ReportPath": "output/reports",
+  "DefaultGroups": [ "All Staff", "VPN Users" ],
+  "DepartmentGroups": {
+    "IT": [ "IT Admins", "Jira Users", "Grafana Viewers" ],
+    "Finance": [ "Finance Share", "ERP Users" ],
+    "Sales": [ "CRM Users", "Sales Share" ],
+    "HR": [ "HR Share", "HRIS Users" ]
+  }
+}

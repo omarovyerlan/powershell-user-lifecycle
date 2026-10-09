@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "EmployeeId": "E1001",
+      "SamAccountName": "aliya.nurlanova",
+      "DisplayName": "Aliya Nurlanova",
+      "Email": "aliya.nurlanova@contoso.lab",
+      "Department": "IT",
+      "Title": "IT Manager",
+      "Manager": "",
+      "OU": "OU=IT,OU=Users,DC=contoso,DC=lab",
+      "Groups": [ "All Staff", "VPN Users", "IT Admins", "Jira Users" ],
+      "Enabled": true,
+      "MustChangePassword": false,
+      "Created": "2023-02-01",
+      "DisabledOn": null
+    },
+    {
+      "EmployeeId": "E1002",
+      "SamAccountName": "timur.sadykov",
+      "DisplayName": "Timur Sadykov",
+      "Email": "timur.sadykov@contoso.lab",
+      "Department": "Sales",
+      "Title": "Account Manager",
+      "Manager": "E1004",
+      "OU": "OU=Sales,OU=Users,DC=contoso,DC=lab",
+      "Groups": [ "All Staff", "VPN Users", "CRM Users", "Sales Share" ],
+      "Enabled": true,
+      "MustChangePassword": false,
+      "Created": "2024-05-13",
+      "DisabledOn": null
+    },
+    {
+      "EmployeeId": "E1003",
+      "SamAccountName": "aigerim.seitkali",
+      "DisplayName": "Aigerim Seitkali",
+      "Email": "aigerim.seitkali@contoso.lab",
+      "Department": "Finance",
+      "Title": "Accountant",
+      "Manager": "",
+      "OU": "OU=Finance,OU=Users,DC=contoso,DC=lab",
+      "Groups": [ "All Staff", "VPN Users", "Finance Share", "ERP Users" ],
+      "Enabled": true,
+      "MustChangePassword": false,
+      "Created": "2022-09-05",
+      "DisabledOn": null
+    },
+    {
+      "EmployeeId": "E1004",
+      "SamAccountName": "daniyar.bekov",
+      "DisplayName": "Daniyar Bekov",
+      "Email": "daniyar.bekov@contoso.lab",
+      "Department": "Sales",
+      "Title": "Head of Sales",
+      "Manager": "",
+      "OU": "OU=Sales,OU=Users,DC=contoso,DC=lab",
+      "Groups": [ "All Staff", "VPN Users", "CRM Users", "Sales Share" ],
+      "Enabled": true,
+      "MustChangePassword": false,
+      "Created": "2021-03-15",
+      "DisabledOn": null
+    }
+  ]
+}

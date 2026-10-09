@@ -1,0 +1,9 @@
+# Run output (lab directory working copy, logs, reports)
+output/
+
+# Test results
+test-results.xml
+
+# OS files
+.DS_Store
+Thumbs.db

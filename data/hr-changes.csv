@@ -1,0 +1,9 @@
+EmployeeId,FirstName,LastName,Department,Title,Action,EffectiveDate,Manager
+E2001,Arman,Zhaksybekov,IT,Systems Engineer,Hire,2026-10-01,E1001
+E2002,Maria,Lopez,Sales,Account Executive,Hire,2026-10-01,E1004
+E2003,Aigerim,Seitkali,HR,HR Specialist,Hire,2026-10-02,
+E1002,,,,,Terminate,2026-10-03,
+E9999,,,,,Terminate,2026-10-03,
+E2004,Nurlan,Abenov,Finance,Financial Analyst,Hire,2030-01-15,
+E2005,Алия,Касымова,IT,Support Engineer,Hire,2026-10-02,E1001
+E2006,John,Smith,IT,DevOps Engineer,Transfer,2026-10-02,
