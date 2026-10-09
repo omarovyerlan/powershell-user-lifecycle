@@ -1,6 +1,7 @@
 # PowerShell User Lifecycle Automation
 
 ![CI](https://github.com/omarovyerlan/powershell-user-lifecycle/actions/workflows/ci.yml/badge.svg)
+docs/report.png
 
 Automates **employee onboarding and offboarding** from an HR feed: creates accounts with the right groups for new hires, disables leavers and removes their access, and produces an audit log plus HTML/CSV reports.
 
